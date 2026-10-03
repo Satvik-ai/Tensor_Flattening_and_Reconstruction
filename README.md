@@ -1,4 +1,4 @@
-### Tensor Flattening and Reconstruction
+# Tensor Flattening and Reconstruction
 
 This project implements the conversion:
 
